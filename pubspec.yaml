@@ -1,6 +1,6 @@
 name: monet
 description: A library to get wallpaper colors using monet on Android or generate them using a primary color
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/HrX03/monet
 
 environment:
